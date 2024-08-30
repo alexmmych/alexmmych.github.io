@@ -2869,7 +2869,7 @@ input[type="button"]:disabled,
 }
 
 #header>header p {
-	color: #d2f2e9;
+	color: #ffcc99;
 	font-style: italic;
 	margin: 1em 0 0 0;
 }
@@ -2943,6 +2943,7 @@ input[type="button"]:disabled,
 /* Main */
 
 #main>section {
+	background: #222;
 	border-top: solid 6px #222;
 }
 
